@@ -6,6 +6,8 @@
 //  Copyright © 2018 JJF. All rights reserved.
 // version imagecoder/imagecoder on Github
 
+// now a mod by JF
+
 import UIKit
 
 @UIApplicationMain
