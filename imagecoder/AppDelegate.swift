@@ -4,7 +4,7 @@
 //
 //  Created by user on 6/3/18.
 //  Copyright © 2018 JJF. All rights reserved.
-//
+// version imagecoder/imagecoder on Github
 
 import UIKit
 
